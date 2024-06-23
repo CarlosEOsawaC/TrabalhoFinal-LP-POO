@@ -16,12 +16,13 @@ Sistema para vendas de produtos usando interface gráfica com usuário. Possue c
 ### <a href="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/tree/main/TrabalhoFinalPOO" target="_blank">POO (BACK-END)</a>
 Também um sistema para vendas de produtos, porém sem interface gráfica, usando apenas codigo e se baseando nos 4 pilares da orientação por objetos (Herança, Encapsulamento, Polimorfismo e Abstração).
 
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/PrintPOO1.png"/>
 
-<img align="center" alt="Header" src=""/>
-
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/PrintPOO2.png"/>
 
 ## Logo Digital Market
 
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/Logo%20Digital%20Market%20README.png"/>
 
 ## Versão JDK do projeto:
 temurin-17 (Eclipse Temurin version 17.0.11)
