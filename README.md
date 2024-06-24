@@ -5,13 +5,18 @@ Digital Market é um mercado para vendas de produtos alimenticios de forma virtu
 O desenvolvimento desse projeto foi dividido em duas principais partes:
 ### LP (FRONT-END)
 Sistema para vendas de produtos usando interface gráfica com usuário. Possue com 4 telas principais, são elas:
-#### Tela principal (vitrine de produtos)
 
-#### Tela de login 
+#### Tela de login e cadastro
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/LoginPrint.png"/>
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/CadastroPrint.png"/>
+
+#### Tela principal (vitrine de produtos)
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/ProdutosPrint.png"/>
 
 #### Tela de carrinho de compras
 
 #### Tela de pagamento 
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/CarrinhoPrint.png"/>
 
 ### <a href="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/tree/main/TrabalhoFinalPOO" target="_blank">POO (BACK-END)</a>
 Também um sistema para vendas de produtos, porém sem interface gráfica, usando apenas codigo e se baseando nos 4 pilares da orientação por objetos (Herança, Encapsulamento, Polimorfismo e Abstração).
@@ -27,8 +32,6 @@ Também um sistema para vendas de produtos, porém sem interface gráfica, usand
 
 ## Versão JDK do projeto:
 temurin-17 (Eclipse Temurin version 17.0.11)
-## Dependências:
-Banco de dados: MySQL
 ## Equipe de desenvolvimento:
 ### Carlos Eduardo Osawa Carvalho
 GitHub: <a href="https://github.com/CarlosEOsawaC" target="_blank">CarlosEOsawaC</a>
