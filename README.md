@@ -27,6 +27,8 @@ Também um sistema para vendas de produtos, porém sem interface gráfica, usand
 
 ## Versão JDK do projeto:
 temurin-17 (Eclipse Temurin version 17.0.11)
+## Dependências:
+Banco de dados: MySQL
 ## Equipe de desenvolvimento:
 ### Carlos Eduardo Osawa Carvalho
 GitHub: <a href="https://github.com/CarlosEOsawaC" target="_blank">CarlosEOsawaC</a>
