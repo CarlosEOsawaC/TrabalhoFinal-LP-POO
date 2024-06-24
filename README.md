@@ -12,8 +12,11 @@ Sistema para vendas de produtos usando interface gráfica com usuário. Possue c
 
 #### Tela principal (vitrine de produtos)
 <img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/ProdutosPrint.png"/>
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/Img%20README/Captura%20de%20tela%202024-06-23%20233453.png"/>
 
 #### Tela de carrinho de compras
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/Img%20README/Captura%20de%20tela%202024-06-23%20233554.png"/>
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/Img%20README/Captura%20de%20tela%202024-06-23%20233610.png"/>
 
 #### Tela de pagamento 
 <img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/TrabalhoFinal-LP-POO/blob/main/Img%20README/CarrinhoPrint.png"/>
